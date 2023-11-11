@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064986816082",
+    "project_id": "dohans-mobile",
+    "storage_bucket": "dohans-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064986816082:android:08fc257a382ea966aab98b",
+        "android_client_info": {
+          "package_name": "com.dohans.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrXoB-3p1NdMfvr4SMFpbjifuRNiTckQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064986816082:android:5f9acacd010045ecaab98b",
+        "android_client_info": {
+          "package_name": "com.example.shopify_dohan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrXoB-3p1NdMfvr4SMFpbjifuRNiTckQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
